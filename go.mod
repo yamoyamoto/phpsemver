@@ -1,3 +1,4 @@
-module github.com/Masterminds/semver/v3
+module yamoyamoto/phpsemver
 
 go 1.18
+
